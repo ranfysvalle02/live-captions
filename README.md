@@ -1,6 +1,8 @@
 # live-captions
 script that captures live audio and provides real-time speech-to-text transcription.
 
+![](https://miro.medium.com/v2/resize:fit:1400/0*yJ9CwrhodY5Asjn4)
+
 ---
 
 **Building a Real-Time Speech-to-Text Application with Deepgram and Python**
